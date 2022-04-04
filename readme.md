@@ -1,6 +1,6 @@
 ## I am android porter and coder
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigsaw-4277821&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jigsaw-4277821&show_icons=true&theme=minimal)
 
 - Ask me about FNF.
 - You can Ask me to port almost any open source mod
