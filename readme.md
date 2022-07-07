@@ -6,4 +6,4 @@
 - Ask me about FNF.
 - You can ask me to port game's made in haxe to android 
 - How to reach me: My Discord: M.A Jigsaw#9479
-- If you want to see me on YouTube: [My YouTube channel](https://youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ)
+- If you want to see me on YouTube: [Link!](https://youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ)
